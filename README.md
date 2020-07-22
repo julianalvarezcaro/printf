@@ -45,4 +45,18 @@ You need to handle the following conversion specifiers:
 
 2. Create a man page for your function.
 
-The other utilities of this function are in progress...!
+The following functions to implement will be:
+
+4. Handle the following conversion specifiers:
+    * u
+    * o
+    * x
+    * X
+    
+ 5. Handle the following conversion specifier: 
+    * p
+ 
+ The other utilities of this function are in progress...!
+    
+ 
+ 
